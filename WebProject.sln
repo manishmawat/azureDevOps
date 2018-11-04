@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProject", "WebProject\WebProject.csproj", "{279EE932-A692-426B-964C-D1F734B3A6AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebProject", "WebProject\WebProject.csproj", "{279EE932-A692-426B-964C-D1F734B3A6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Framework_ClassLibrary", "Test_Framework_ClassLibrary\Test_Framework_ClassLibrary.csproj", "{0C86128E-D125-4A87-90CF-F76B1EA8603A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{279EE932-A692-426B-964C-D1F734B3A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279EE932-A692-426B-964C-D1F734B3A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279EE932-A692-426B-964C-D1F734B3A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C86128E-D125-4A87-90CF-F76B1EA8603A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C86128E-D125-4A87-90CF-F76B1EA8603A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C86128E-D125-4A87-90CF-F76B1EA8603A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C86128E-D125-4A87-90CF-F76B1EA8603A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
